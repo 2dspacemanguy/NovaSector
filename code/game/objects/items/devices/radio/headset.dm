@@ -358,6 +358,12 @@ GLOBAL_LIST_INIT(channel_tokens, list(
 	worn_icon_state = "srv_headset"
 	keyslot = /obj/item/encryptionkey/headset_service
 
+/obj/item/radio/headset/headset_ian
+	name = "\proper Ian radio headset"
+	desc = "A headset that makes you look just like Puppy Doggy."
+	icon_state = "ian_headset"
+	worn_icon_state = "ian_headset"
+
 /obj/item/radio/headset/headset_cent
 	name = "\improper CentCom headset"
 	desc = "A headset used by the upper echelons of Nanotrasen."
