@@ -387,7 +387,7 @@ NOVA EDIT END */
 /datum/greyscale_config/cutoutslacks
 	name = "Cut Out Slacks"
 	icon_file = 'icons/obj/clothing/under/shorts_pants_shirts.dmi'
-	json_config = 'code/datums/greyscale/json_configs/slacks.json'
+	json_config = 'code/datums/greyscale/json_configs/cut_out_slacks.json'
 
 /datum/greyscale_config/cutoutslacks/worn
 	name = "Cut Out Slacks (Worn)"
