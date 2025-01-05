@@ -363,6 +363,7 @@ GLOBAL_LIST_INIT(channel_tokens, list(
 	desc = "A headset that makes you look just like Puppy Doggy."
 	icon_state = "ian_headset"
 	worn_icon_state = "ian_headset"
+	alternate_worn_layer = FACEMASK_LAYER + 0.5
 
 /obj/item/radio/headset/headset_cent
 	name = "\improper CentCom headset"
