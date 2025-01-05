@@ -359,10 +359,11 @@ GLOBAL_LIST_INIT(channel_tokens, list(
 	keyslot = /obj/item/encryptionkey/headset_service
 
 /obj/item/radio/headset/headset_ian
-	name = "\proper Ian radio headset"
-	desc = "A headset that makes you look just like Puppy Doggy."
+	name = "Ian radio headset"
+	desc = "A novelty radio headset themed around the HoP's loyal corgi, Ian. Strangely, Ian hasn't recieved any royalties for the use of his likeness..."
 	icon_state = "ian_headset"
 	worn_icon_state = "ian_headset"
+	alternate_worn_layer = FACEMASK_LAYER + 0.5
 
 /obj/item/radio/headset/headset_cent
 	name = "\improper CentCom headset"
