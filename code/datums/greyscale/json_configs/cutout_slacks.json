@@ -14,7 +14,7 @@
 		},
 		{
 			"type": "icon_state",
-			"icon_state": "cutoutslacks",
+			"icon_state": "cutout_slacks",
 			"blend_mode": "overlay",
 			"color_ids": [ 3 ]
 		}

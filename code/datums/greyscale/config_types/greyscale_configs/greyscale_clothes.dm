@@ -384,12 +384,12 @@ NOVA EDIT END */
 	name = "Slacks (Worn)"
 	icon_file = 'icons/mob/clothing/under/shorts_pants_shirts.dmi'
 
-/datum/greyscale_config/cutoutslacks
+/datum/greyscale_config/cutout_slacks
 	name = "Cut Out Slacks"
 	icon_file = 'icons/obj/clothing/under/shorts_pants_shirts.dmi'
-	json_config = 'code/datums/greyscale/json_configs/cut_out_slacks.json'
+	json_config = 'code/datums/greyscale/json_configs/cutout_slacks.json'
 
-/datum/greyscale_config/cutoutslacks/worn
+/datum/greyscale_config/cutout_slacks/worn
 	name = "Cut Out Slacks (Worn)"
 	icon_file = 'icons/mob/clothing/under/shorts_pants_shirts.dmi'
 
