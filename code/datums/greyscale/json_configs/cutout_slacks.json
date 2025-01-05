@@ -1,5 +1,5 @@
 {
-	"cut_out_slacks": [
+	"cutout_slacks": [
 		{
 			"type": "icon_state",
 			"icon_state": "buckle",
