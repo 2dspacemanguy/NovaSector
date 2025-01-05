@@ -20,9 +20,9 @@
 /obj/item/clothing/under/pants/cutout_slacks
 	name = "cut out slacks"
 	desc = "A pair of comfy slacks. Somebody's cut part of the sides out of these and moved the pockets down just a bit."
-	icon_state = "cut_out_slacks"
-	greyscale_config = /datum/greyscale_config/cut_out_slacks
-	greyscale_config_worn = /datum/greyscale_config/cut_out_slacks/worn
+	icon_state = "cutout_slacks"
+	greyscale_config = /datum/greyscale_config/cutout_slacks
+	greyscale_config_worn = /datum/greyscale_config/cutout_slacks/worn
 	greyscale_colors = "#575757#3E3E3E#75634F"
 	flags_1 = IS_PLAYER_COLORABLE_1
 
